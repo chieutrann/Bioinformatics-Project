@@ -1,2 +1,2 @@
-# Bioinformatics-Project
-This project aims to create a semi-automatic identification pipeline using the command line to be able to process thousands of sequences (queries) in a single run, with the overall aim to create user-friendly output files depicting BLAST percentage identities and robust phylogenetic relationships information using a maximum likelihood approach.
+<h1>Abstract</h1>
+<p>DNA barcoding is a method that uses a short, standardized region of DNA as a diagnostic marker to identify species. Due to fast evolving substitution rates, every species has its unique barcode sequence, which can be compared to a reference library of such sequences. The barcode identification approach consists of comparing the query sequences against the subject sequences, usually by estimating the percentage identities via BLAST, or by phylogenetic relationships and monophyly, via quick neighbor joining phylogeny estimations.</p>
